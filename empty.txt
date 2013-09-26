@@ -1,0 +1,8 @@
+kannan
+
+Create A Repo
+
+If you've found yourself on this page, we're assuming you're brand new to Git and GitHub. This guide will walk you through the basics and explain a little bit about how everything works along the way.
+Make a new repository on GitHub
+
+Every time you make a commit with Git, it is stored in a repository (a.k.a. "repo"). To put your project up on GitHub, you'll need to have a GitHub repository for it to live in.
